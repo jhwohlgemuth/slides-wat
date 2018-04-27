@@ -78,7 +78,7 @@ class Title extends React.Component {
                 wat?
                 </Heading>
                 <Text margin="10px 0 0" textColor="tertiary" fit bold>
-                The promise and purpose of WebAssembly
+                The purpose and promise of WebAssembly
                 </Text>
             </Slide>
         );
